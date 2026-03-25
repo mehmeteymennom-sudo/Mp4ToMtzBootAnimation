@@ -22,6 +22,8 @@
 
 > **Note:** Python version requires installing these libraries. EXE version works without extra dependencies.
 
+The exe link :https://drive.google.com/file/d/1yfrdPErSsZASegOUR3Q3OFvzGD5X2uQO/view?usp=sharing
+
 ---
 
 ## Usage
